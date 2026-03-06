@@ -4,7 +4,7 @@ GenCheck is a web-based AI-powered system designed to detect whether PowerPoint 
 GenCheck aims to promote transparency, academic integrity, and ethical use of AI in educational and professional environments.
 
 # Deployed link 
-https://gencheck1609.vercel.app/
+https://gencheck2-1.vercel.app/
 ----
 # Problem Statement
 With the rapid growth of AI presentation tools such as Gamma AI, Tome, ChatGPT Slides, and Beautiful.ai, entire presentations can now be generated in seconds. While these tools improve productivity, they also create challenges in maintaining authenticity, originality, and fairness in presentation submissions.
